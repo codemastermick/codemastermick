@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Find me around the web at
-- [Patreon](www.patreon.com/codemastermick)
-- [Twitter](https://twitter.com/codemastermick)
+### Find me around the web
+[<img height="32" width="32" src="https://simpleicons.org/icons/patreon.svg" />](www.patreon.com/codemastermick)
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/codemastermick)
 
 
 ### You can do this too!
