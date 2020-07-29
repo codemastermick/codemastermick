@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - [Twitter](https://twitter.com/codemastermick)
 
 
-##### You can do this too!
+### You can do this too!
 1. Go to https://github.com/new and create a repository with YOUR GitHub username like this: https://github.com/MY-NAME/MY-NAME
 1. Make sure to initialize that repo with a readme when you are setting it up: <img width="524" height="73" alt="readme example" src="https://github.com/codemastermick/codemastermick/blob/master/readme_1.png">
 1. Fill out your README.md with whatever you want to appear in this section here.
